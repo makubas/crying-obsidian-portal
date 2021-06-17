@@ -1,11 +1,18 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.github.makubas.cryingobsidianportal",
+  "package": "com.github.makubas.cryingobsidianportal.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "AreaHelperInvoker",
+    "AreaHelperMixin",
+    "PortalForcerAccessor",
+    "PortalForcerInvoker",
+    "PortalForcerMixin"
   ],
   "client": [
+  ],
+  "server": [
   ],
   "injectors": {
     "defaultRequire": 1

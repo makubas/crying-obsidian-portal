@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Crying obsidian portal",
-  "description": "Mod that adds corner versions for vanilla rails",
+  "description": "Mod that allows you to create nether portals using crying obsidian",
   "authors": [
     "makubas"
   ],
