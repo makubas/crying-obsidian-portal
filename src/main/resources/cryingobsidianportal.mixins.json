@@ -4,11 +4,7 @@
   "package": "com.github.makubas.cryingobsidianportal.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
-    "AreaHelperInvoker",
-    "AreaHelperMixin",
-    "PortalForcerAccessor",
-    "PortalForcerInvoker",
-    "PortalForcerMixin"
+    "AreaHelperMixin"
   ],
   "client": [
   ],
